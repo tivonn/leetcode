@@ -8,6 +8,7 @@ LeetCode solutions with JavaScript
 ### easy
 
 * [0001.Two Sum](https://github.com/tivonn/leetcode/blob/master/problems/1.two-sum.md)
+* [0003.Reverse Integer](https://github.com/tivonn/leetcode/blob/master/problems/3.reverse-integer.md)
 
 ### medium
 
