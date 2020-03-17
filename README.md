@@ -13,6 +13,7 @@ leetcode solutions with JavaScript
 * [0013.Roman to Integer](https://github.com/tivonn/leetcode/blob/master/problems/13.roman-to-integer.md)
 * [0014.Longest Common Prefix](https://github.com/tivonn/leetcode/blob/master/problems/14.longest-common-prefix.md)
 * [0020.Valid Parentheses](https://github.com/tivonn/leetcode/blob/master/problems/20.valid-parentheses.md)
+* [0021.Merge Two Sorted Lists](https://github.com/tivonn/leetcode/blob/master/problems/20.merge-two-sorted-lists.md)
 
 ### medium
 
