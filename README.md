@@ -1,7 +1,7 @@
 # leetcode
 
 ## description
-LeetCode solutions with JavaScript
+leetcode solutions with JavaScript
 
 ## link
 
@@ -12,6 +12,7 @@ LeetCode solutions with JavaScript
 * [0009.Palindrome Number](https://github.com/tivonn/leetcode/blob/master/problems/9.palindrome-number.md)
 * [0013.Roman to Integer](https://github.com/tivonn/leetcode/blob/master/problems/13.roman-to-integer.md)
 * [0014.Longest Common Prefix](https://github.com/tivonn/leetcode/blob/master/problems/14.longest-common-prefix.md)
+* [0020.Valid Parentheses](https://github.com/tivonn/leetcode/blob/master/problems/20.valid-parentheses.md)
 
 ### medium
 
