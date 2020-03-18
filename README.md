@@ -13,8 +13,9 @@ leetcode solutions with JavaScript
 * [0013.Roman to Integer](https://github.com/tivonn/leetcode/blob/master/problems/13.roman-to-integer.md)
 * [0014.Longest Common Prefix](https://github.com/tivonn/leetcode/blob/master/problems/14.longest-common-prefix.md)
 * [0020.Valid Parentheses](https://github.com/tivonn/leetcode/blob/master/problems/20.valid-parentheses.md)
-* [0021.Merge Two Sorted Lists](https://github.com/tivonn/leetcode/blob/master/problems/20.merge-two-sorted-lists.md)
-* [0026.Remove Duplicates from Sorted Array](https://github.com/tivonn/leetcode/blob/master/problems/20.remove-duplicates-from-sorted-array.md)
+* [0021.Merge Two Sorted Lists](https://github.com/tivonn/leetcode/blob/master/problems/21.merge-two-sorted-lists.md)
+* [0026.Remove Duplicates from Sorted Array](https://github.com/tivonn/leetcode/blob/master/problems/26.remove-duplicates-from-sorted-array.md)
+* [0027.Remove Element](https://github.com/tivonn/leetcode/blob/master/problems/27.remove-element.md)
 
 ### medium
 
