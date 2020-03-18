@@ -14,6 +14,7 @@ leetcode solutions with JavaScript
 * [0014.Longest Common Prefix](https://github.com/tivonn/leetcode/blob/master/problems/14.longest-common-prefix.md)
 * [0020.Valid Parentheses](https://github.com/tivonn/leetcode/blob/master/problems/20.valid-parentheses.md)
 * [0021.Merge Two Sorted Lists](https://github.com/tivonn/leetcode/blob/master/problems/20.merge-two-sorted-lists.md)
+* [0026.Remove Duplicates from Sorted Array](https://github.com/tivonn/leetcode/blob/master/problems/20.remove-duplicates-from-sorted-array.md)
 
 ### medium
 
