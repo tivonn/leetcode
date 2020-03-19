@@ -16,6 +16,7 @@ leetcode solutions with JavaScript
 * [0021.Merge Two Sorted Lists](https://github.com/tivonn/leetcode/blob/master/problems/21.merge-two-sorted-lists.md)
 * [0026.Remove Duplicates from Sorted Array](https://github.com/tivonn/leetcode/blob/master/problems/26.remove-duplicates-from-sorted-array.md)
 * [0027.Remove Element](https://github.com/tivonn/leetcode/blob/master/problems/27.remove-element.md)
+* [0028.Implament strStr](https://github.com/tivonn/leetcode/blob/master/problems/28.implement-strstr.md)
 
 ### medium
 
