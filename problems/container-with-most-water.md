@@ -27,15 +27,12 @@ Output: 49
  * @return {number}
  */
 var maxArea = function (height) {
-  var getMax = function (start, end) {
-    return (end - start) * Math.min(height[start], height[end])
-  }
   var start = 0,
       end = height.length - 1,
       max = 0,
       current = 0
   while (start < end) {
-    current = getMax(start, end)
+    current = (end - start) * Math.min(height[start], height[end])
     if (current > max) {
       max = current
     }
