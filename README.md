@@ -19,6 +19,7 @@ leetcode solutions with JavaScript
 * [0028.Implament strStr](https://github.com/tivonn/leetcode/blob/master/problems/28.implement-strstr.md)
 * [0035.Search Insert Position](https://github.com/tivonn/leetcode/blob/master/problems/35.earch-insert-position.md)
 * [0038.Count and Say](https://github.com/tivonn/leetcode/blob/master/problems/38.count-and-say.md)
+* [0053.Maximum Subarray](https://github.com/tivonn/leetcode/blob/master/problems/53.maximum-subarray.md)
 
 ### medium
 
