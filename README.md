@@ -1,7 +1,8 @@
 # leetcode
 
 ## description
-leetcode solutions with JavaScript
+
+使用JavaScript刷leetcode / leetcode solutions with JavaScript
 
 ## link
 
