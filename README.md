@@ -35,3 +35,4 @@
 * [0022.Generate Parentheses](https://github.com/tivonn/leetcode/blob/master/problems/22.generate-parentheses.md)
 * [0049.Group Anagrams](https://github.com/tivonn/leetcode/blob/master/problems/49.group-anagrams.md)
 * [1551.Minimum Operations to Make Array Equal](https://github.com/tivonn/leetcode/blob/master/problems/1551.minimum-operations-to-make-array-equal.md)
+* [1561.Maximum Number of Coins You Can Get](https://github.com/tivonn/leetcode/blob/master/problems/1561.maximum-number-of-coins-you-can-get.md)
