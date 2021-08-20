@@ -28,6 +28,7 @@
 * [0003.Longest Substring Without Repeating Characters](https://github.com/tivonn/leetcode/blob/master/problems/3.longest-substring-without-repeating-characters.md)
 * [0005.Longest Palindromic Substring](https://github.com/tivonn/leetcode/blob/master/problems/5.longest-palindromic-substring.md)
 * [0006.ZigZag Conversion](https://github.com/tivonn/leetcode/blob/master/problems/6.zigzag-conversion.md)
+* [0008.String to Integer](https://github.com/tivonn/leetcode/blob/master/problems/8.string-to-integer.md)
 * [0011.Container With Most Water](https://github.com/tivonn/leetcode/blob/master/problems/11.container-with-most-water.md)
 * [0015.3Sum](https://github.com/tivonn/leetcode/blob/master/problems/15.3-sum.md)
 * [0016.3Sum Closest](https://github.com/tivonn/leetcode/blob/master/problems/16.3-sum-closest.md)
