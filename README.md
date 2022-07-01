@@ -22,6 +22,7 @@
 - [0038.Count and Say](https://github.com/tivonn/leetcode/blob/master/problems/38.count-and-say.md)
 - [0053.Maximum Subarray](https://github.com/tivonn/leetcode/blob/master/problems/53.maximum-subarray.md)
 - [0058.Length of Last Word](https://github.com/tivonn/leetcode/blob/master/problems/58.length-of-last-word.md)
+- [0066.Plus One](https://github.com/tivonn/leetcode/blob/master/problems/66.plus-one.md)
 
 ### medium
 
