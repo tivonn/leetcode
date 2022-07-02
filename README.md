@@ -39,6 +39,7 @@
 - [0018.4Sum](https://github.com/tivonn/leetcode/blob/master/problems/18.4-sum.md)
 - [0019.Remove Nth Node From End of List](https://github.com/tivonn/leetcode/blob/master/problems/19.remove-nth-node-from-end-of-list.md)
 - [0022.Generate Parentheses](https://github.com/tivonn/leetcode/blob/master/problems/22.generate-parentheses.md)
+- [0024.Swap Nodes in Pairs](https://github.com/tivonn/leetcode/blob/master/problems/24.swap-nodes-in-pairs.md)
 - [0049.Group Anagrams](https://github.com/tivonn/leetcode/blob/master/problems/49.group-anagrams.md)
 - [0535.Encode and Decode TinyURL](https://github.com/tivonn/leetcode/blob/master/problems/535.encode-and-decode-tinyurl.md)
 - [1379.Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/tivonn/leetcode/blob/master/problems/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.md)
