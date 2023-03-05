@@ -46,3 +46,7 @@
 - [1379.Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/tivonn/leetcode/blob/master/problems/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.md)
 - [1551.Minimum Operations to Make Array Equal](https://github.com/tivonn/leetcode/blob/master/problems/1551.minimum-operations-to-make-array-equal.md)
 - [1561.Maximum Number of Coins You Can Get](https://github.com/tivonn/leetcode/blob/master/problems/1561.maximum-number-of-coins-you-can-get.md)
+
+### hard
+
+- [0042.Trapping Rain Water](https://github.com/tivonn/leetcode/blob/master/problems/42.trapping-rain-water.md)
